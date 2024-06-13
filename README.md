@@ -6,6 +6,7 @@ This script creates the .cpp and .hpp of a basic class in Orthodox Cannonical Cl
 ./create_class Test
 ```
 This gives us 2 files:
+
 Test.hpp
 ```
 #ifndef TEST_HPP
