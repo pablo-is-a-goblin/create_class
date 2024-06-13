@@ -1,6 +1,6 @@
 # Class Creator Script
 
-This script creates the .cpp and .hpp of a basic Orthodox Cannonical Form Class. It implements the default constructor and destructor, the copy constructor and the copy assignment operator. Example:
+This script creates the .cpp and .hpp of a basic class in Orthodox Cannonical Class Form. It implements the default constructor and destructor, the copy constructor and the copy assignment operator. Example:
 
 ```
 ./create_class Test
